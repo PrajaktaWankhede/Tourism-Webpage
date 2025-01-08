@@ -7,7 +7,7 @@ Developed a web application that provides users with detailed information about 
 - Customize itineraries based on preferences.
 - User-friendly interface for easy navigation.
 - Responsive design for all devices.
-- 
+  
 # Installation
 To set up and run the project locally:
 
